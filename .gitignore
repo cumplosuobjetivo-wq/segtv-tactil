@@ -1,0 +1,45 @@
+# Archivos de configuración con datos sensibles
+config.py
+.env
+*.env
+
+# Archivos de base de datos
+*.sql
+*.db
+*.sqlite
+
+# Archivos de respaldo
+*.backup
+*.bak
+respaldo_*.sql
+copias_seguridad/
+
+# Archivos generados
+*.pyc
+__pycache__/
+*.log
+*.pdf
+presupuestos/
+notas_entrega/
+*.csv
+*.xlsx
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+.env
