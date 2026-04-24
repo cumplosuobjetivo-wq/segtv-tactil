@@ -34,7 +34,7 @@ Sistema de gestión táctil para taller de reparaciones con interfaz optimizada 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sgetv-tactil.git
+git clone https://github.com/cumplosuobjetivo-wq/sgetv-tactil.git
 cd sgetv-tactil
 
 2. Configurar la base de datos
